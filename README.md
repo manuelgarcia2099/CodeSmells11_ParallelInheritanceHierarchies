@@ -1,0 +1,1 @@
+# CodeSmells11_ParallelInheritanceHierarchies
